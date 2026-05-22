@@ -1,2 +1,2 @@
 # Storytime
-Vault for mostly ai generated novel illustrations
+Vault for mostly AI generated novel illustrations
